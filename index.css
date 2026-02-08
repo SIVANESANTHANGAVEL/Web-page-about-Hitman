@@ -1,0 +1,41 @@
+body{
+    color:black;
+    background-color: navajowhite;
+}
+h1{
+    color:brown;
+    text-align: center;
+    
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    height: 300px;
+    width: 400px;
+    border-radius: 10%;
+    
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:hover{
+    color: crimson;
+    border: 2px solid;
+    padding: 5px;
+    background-color: aquamarine; 
+    text-align: center;
+       
+}
+table:hover{
+    color:red;
+    
+}
+h3:hover{
+    color:blueviolet;
+}
+li{
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
